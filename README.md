@@ -47,6 +47,10 @@ The application displays a collection of images in a slider format where users c
 
 ## 👨‍💻 Author
 
-**Mr. Royal**
+**Ahil Roy R**
 
 B.Tech Computer Science Engineering Student
+<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/14b56cb7-7648-48c1-9f84-39cdfe4d1a7d" />
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/e6f0591b-1296-4111-bbd4-cbbf9eb0998f" />
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/1fa0c515-d7d5-4c2e-a884-6058ae818135" />
+<img width="1920" height="1200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/c7d117c0-1063-44a2-a39d-85855d7ce82a" />
